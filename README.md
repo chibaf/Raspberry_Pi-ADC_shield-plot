@@ -114,3 +114,5 @@ https://raspberrypi.stackexchange.com/questions/145031/wiringpi-giving-unable-to
 command:
 
 sudo apt update; sudo apt install --reinstall libraspberrypi0 libraspberrypi-{bin,dev,doc} raspberrypi-bootloader raspberrypi-kernel
+
+sudo reboot
