@@ -1,4 +1,4 @@
-# Raspberry_Pi-ADC_shield-plot
+# Raspberry_Pi-ADC_shield-plot for Raspberry Pi 4 - RasPi4
 Raspberry_Pi-ADC_shield-plot
 
 ## installation (1)
